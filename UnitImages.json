@@ -1,4 +1,4 @@
-var UnitImages = {
+UnitImages = {
         "Abhorrant Archregent": "https://dhss9aar8ocw.cloudfront.net/2dc08d6c-99d3-4e3d-be5f-b5643f194004",
         "Abhorrant Archregent": "https://dhss9aar8ocw.cloudfront.net/f150d28d-e76a-47b0-8c8f-e4fbd3f4e451",
         "Abhorrant Cardinal": "https://dhss9aar8ocw.cloudfront.net/fdf936b7-ecbe-46bc-933b-f33fafc519d3",
